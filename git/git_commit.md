@@ -1,8 +1,7 @@
 # git commit 관련 사용법
-<hr/>
+---
 
-<pre>
-  <code>
+```
 git commit -m 'commit message'
 # git commit
 
@@ -23,9 +22,8 @@ git rebase -i HEAD~3
 
 git commit --amend
 # 마지막 commit message 수정
-  </code>
-</pre>
+```
 
 # Reference
-<hr/>
+---
 https://backlogtool.com/git-tutorial/kr/stepup/stepup7_3.html
