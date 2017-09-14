@@ -1,4 +1,4 @@
-# python class, exception 관련 사용법
+# [python] class, exception 관련 사용법
 ---
 
 #### __클래스, 인스턴스__
